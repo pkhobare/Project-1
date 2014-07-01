@@ -1,7 +1,6 @@
 <h1> Project 1 - Paritosh Khobare</h1>
 
 # Link to live website
-
     [Project1 live URL](http://project1-paritoshkhobare.gopagoda.com/ "Live URL")
 
 # Project Description
